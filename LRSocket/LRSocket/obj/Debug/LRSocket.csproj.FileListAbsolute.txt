@@ -1,0 +1,11 @@
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\LRSocket\LRSocket\bin\Debug\LRSocket.exe.config
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\LRSocket\LRSocket\bin\Debug\LRSocket.exe
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\LRSocket\LRSocket\bin\Debug\LRSocket.pdb
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\LRSocket\LRSocket\obj\Debug\LRSocket.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\LRSocket\LRSocket\obj\Debug\LRSocket.Form1.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\LRSocket\LRSocket\obj\Debug\LRSocket.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\LRSocket\LRSocket\obj\Debug\LRSocket.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\LRSocket\LRSocket\obj\Debug\LRSocket.exe
+C:\Users\Chris\Documents\Visual Studio 2017\Projects\LRSocket\LRSocket\obj\Debug\LRSocket.pdb
+O:\Software\GitHub\01_LigthroomAPI\Ligthroom-C-sharp\LRSocket\LRSocket\obj\Debug\LRSocket.exe
+O:\Software\GitHub\01_LigthroomAPI\Ligthroom-C-sharp\LRSocket\LRSocket\obj\Debug\LRSocket.pdb
